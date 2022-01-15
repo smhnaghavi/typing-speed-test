@@ -11,4 +11,5 @@
   
   First you should fork this project into your github account. 
   
-  And then you should go to setting and Pages part. Then choose the branch and save. After some minutes, you can see the result on: https://your_user_name.github.io/your_repository_name
+  And then you should go to setting and Pages part.
+  Then choose the branch and save. After some minutes, you can see the result on: https://your_user_name.github.io/your_repository_name
